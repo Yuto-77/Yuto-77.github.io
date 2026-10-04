@@ -475,6 +475,18 @@ button:hover {
     color: var(--muted);
 }
 
+/* チーム作品のページ（ヘッダーがないので上の余白を詰める） */
+.app-doc {
+    padding-top: 80px;
+}
+
+.doc-links {
+    margin-top: 48px;
+    padding-top: 24px;
+
+    border-top: 1px solid var(--line);
+}
+
 
 /* デジタル名刺 */
 
