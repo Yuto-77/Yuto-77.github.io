@@ -131,5 +131,46 @@ const WORKS = [
             { label: "unityroom で遊ぶ（PC）", url: "https://unityroom.com/games/curvedriversi" }
         ],
         repo: ""
+    },
+
+    {
+        id: "tetrage",
+        title: "Tetrage",
+        catchCopy: "",
+        tags: ["Game", "Unity", "Team"],
+        recommended: false,
+        thumbnail: "",
+        date: "TODO",
+
+        story: [
+            "TODO"
+        ],
+        challenges: [
+            {
+                title: "TODO",
+                text: "TODO"
+            }
+        ],
+
+        team: {
+            size: "TODO",
+            members: []
+        },
+        role: ["企画・プログラム・グラフィック"],
+        period: {
+            prep: "",
+            dev: "TODO：開発期間"
+        },
+        stack: ["Unity", "C#"],
+        awards: [],
+        events: [],
+        controls: "TODO：操作方法",
+
+        video: "",
+        screenshots: [],
+        links: [
+            { label: "" }
+        ],
+        repo: ""
     }
 ];
